@@ -1,2 +1,2 @@
 # FPS
-Shoot Tir
+Shoot
